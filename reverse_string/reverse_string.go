@@ -1,5 +1,6 @@
 package leetcode
 
+//This function reverse the string
 func reverseString(s []byte) {
 	initial := 0
 	final := len(s) - 1
